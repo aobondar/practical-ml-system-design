@@ -6,7 +6,11 @@ This is a technical guide to the key principles of building enterprise-level mac
 
 ## Table of content
 [1. Goals and metrics](1.Goals_and_metrics.md)
+
 2. Offline benchmarking
+
 3. Data-driven R&D process
+
 4. Infrastructure
+
 5. Production support
