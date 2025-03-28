@@ -7,9 +7,9 @@ The text is structured to reflect the importance of different aspects of ML in d
 ## Table of content
 [1. Goals and metrics](1.Goals_and_metrics.md)
 
-2. Offline benchmarking
-
-3. Data-driven R&D process
+2. Data-driven R&D process
+   
+3. Offline benchmarking
 
 4. Infrastructure
 
